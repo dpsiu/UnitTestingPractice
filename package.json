@@ -1,0 +1,16 @@
+{
+  "name": "unittestingpractice",
+  "version": "1.0.0",
+  "description": "project to apply newly learned unit test principles",
+  "main": "unitTestPractice.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Denver Siu",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.22.9",
+    "@babel/preset-env": "^7.22.9",
+    "babel-jest": "^29.6.1"
+  }
+}
